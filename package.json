@@ -43,14 +43,14 @@
   ],
   "overrides": [
     {
-      "files": ['**/*.svelte'],
+      "files": ["*.svelte"],
       "processor": "svelte3/svelte3"
     }
   ],
   "rules": {
     
   }
-};
+}
   },
   "prettier": {
     "tabWidth": 2,
