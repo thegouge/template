@@ -47,8 +47,7 @@
       "processor": "svelte3/svelte3"
     }
   ],
-  "rules": {
-    
+  "rules": {}
   },
   "prettier": {
     "tabWidth": 2,
