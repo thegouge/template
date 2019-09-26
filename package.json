@@ -56,6 +56,6 @@
     "tabWidth": 2,
     "semi": false,
     "trailingComma": "es6",
-    "plugins: ["svelte"]
+    "plugins": ["svelte"]
   }
 }
